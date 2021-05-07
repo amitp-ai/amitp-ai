@@ -1,1 +1,3 @@
-# amip-ai
+# Hi there...
+
+My name is Amit Patel and I am a Machine Learning Engineer/Researcher with a focus on NLP. ![GitHubReadme](https://user-images.githubusercontent.com/23042512/117491089-947f8280-af24-11eb-84f4-c3d060ce6945.png)
