@@ -2,5 +2,4 @@
 
 Hi. My name is Amit Patel. I am a Machine Learning Engineer/Researcher and I have deep knowledge of various machine learning and deep learning algorithms as applied to Natural Language Processing (NLP). Some of which are highlighted in this repository.
 
-If you are interested in further discussion, please contact me at amitpatel.gt@gmail.com
-
+For further details, please contact me at amitpatel.gt@gmail.com
