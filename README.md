@@ -36,11 +36,14 @@ Boosting, etc.
 - Strong understanding of unsupervised learning algorithms such as PCA, K-means, expectation-maximization.
 - Collaborative filtering and content based recommendation systems as well as various anomaly detection algorithms.
 
+### Autonomous Vehicle Path Planning and Control
+- Behavior planning (in structured environments) using cost function based finite state machines as well as in (unstructured environments) using A* search algorithm.
+- Machine learning based environmental prediction and trajectory generation using jerk minimization techniques.
+- Control: proportional-integrate-derivative (PID), Linear Quadratic Regulator (LQR), and Model Predictive Control (MPC)
+
 ## RELEVANT PROJECTS
 ### Text Summarization (Spring 2021)
-- Mastered skills in the full machine learning stack, including data wrangling, deep learning, and deploying ML systems at scale.
-- 400+ hours of hands-on course material with 1:1 industry expert mentor and completion of an in-depth capstone project.
-- Capstone project was on text summmarization where input text was first pre-processed followed by data wrangling and data exploration.
+- Input text was first pre-processed followed by data wrangling and data exploration.
 - Thereafter experimented with various encoder-decoder type of models using LSTM, attention based LSTM, transformers, and memory efficient transformers. Memory efficient transformers performed the best with Rouge-1 and Rouge-2 scores of 38.3 and 13.3.
 - Productionized using a Docker container and served the model using a web interface through AWS.
 
@@ -75,4 +78,12 @@ Boosting, etc.
 - Final layer outputs Softmax probabilities, and Adam optimizer was used to train the network.
 - Split data in to training, validation, and test sets. Preprocessed input images such that they spanned from 0 to 1; and for improved training, Glorot’s method was used to initialize the network weights.
 
-For further details, please contact me at amitpatel.gt@gmail.com
+### Implemented Backpropagation Algorithm for Various Network Types (Spring 2017)
+- Using Numpy, implemented forward and backward passes for fully connected neural network, convolutional neural network (CNN), recurrent neural network (RNN), and Long Short-Term Memory (LSTM).
+- Generated adversarial examples by computing the gradient of the loss function with respect to the input image pixels.
+- Computed saliency maps and class visualizations to understand how different layers and neurons in the network learn.
+
+### Path Planner for Highway Driving (part of Udacity-Bosch path planning challenge) (Fall 2017)
+- Finite state machine based behavior planner and smooth trajectory generation using spline functions.
+- State transition was determined using a cost function that included distance to other vehicles, ride comfort (i.e. minimize jerk), and speed. Controlled steering angle and vehicle acceleration to minimize this cost function.
+- The planner was implemented in C++ and was one of the top 25 winners in the challenge.
