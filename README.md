@@ -38,18 +38,19 @@ Boosting, etc.
 - Strong understanding of unsupervised learning algorithms such as PCA, K-means, expectation-maximization.
 - Collaborative filtering and content based recommendation systems as well as various anomaly detection algorithms.
 
-### Autonomous Vehicle Path Planning and Control
+<!-- ### Autonomous Vehicle Path Planning and Control
 - Behavior planning (in structured environments) using cost function based finite state machines as well as in (unstructured environments) using A* search algorithm.
 - Machine learning based environmental prediction and trajectory generation using jerk minimization techniques.
 - Control: proportional-integrate-derivative (PID), Linear Quadratic Regulator (LQR), and Model Predictive Control (MPC)
+-->
 
 ## RELEVANT PROJECTS
-### Text Summarization (Spring 2021)
+### Text Summarization
 - Input text was first pre-processed followed by data wrangling and data exploration.
 - Thereafter experimented with various encoder-decoder type of models using LSTM, attention based LSTM, transformers, and memory efficient transformers. Memory efficient transformers performed the best with Rouge-1 and Rouge-2 scores of 38.3 and 13.3.
 - Productionized using a Docker container and served the model using a web interface through AWS.
 
-### Question-Answering System on the SQuAD2.0 Dataset (Fall 2020)
+### Question-Answering System on the SQuAD2.0 Dataset
 - As part of Stanford’s CS224N’s final project, I experimented with a few different architectures for this task.
 - Using Bi-Directional Attention Flow (BiDAF) network, achieved an F1 score of 62 on the validation set.
 - Then added character level embeddings (in addition to word embeddings) to BiDAF and achieved F1 of 65.
