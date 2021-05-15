@@ -5,11 +5,13 @@ My name is Amit Patel. I am a Machine Learning Engineer/Researcher with deep kno
 
 ## SKILLS
 **Programming:** Python (advanced), C++, SQL, Linux/Bash, Matlab  
+
 **Frameworks/Libraries:** Pytorch (advanced), Tensorflow, SpaCy, NLTK, Pandas, PySpark, Dask, Git, Docker, RegEx, Scikit-Learn  
+
 **Cloud Computing Platforms:** Google Cloud Platform (GCP), Amazon Web Services (AWS)  
+
 **Relevant Course Work:** Intro to AI, Intro to Machine Learning, Natural Language Processing, Computer Vision, Advanced Robotics,
 Reinforcement Learning, Algorithms & Data Structures, Software Fundamentals for Engineering Systems  
-**Languages:** English, Swahili, Hindi, Gujarati  
 
 ## EXPERTISE
 ### Natural Language Processing
