@@ -1,7 +1,7 @@
 ![GithubProfile](https://user-images.githubusercontent.com/23042512/117491618-47e87700-af25-11eb-9164-b06f11bac5f2.png)
 
 ## SUMMARY
-My name is Amit Patel. I am a Machine Learning Engineer/Researcher with deep knowledge of various machine learning and deep learning algorithms as applied to Natural Language Processing (NLP). Some of which are highlighted in this repository. But before that, here's a bit about my self:
+My name is Amit Patel. I am a Machine Learning Engineer/Researcher with deep knowledge of various machine learning and deep learning algorithms as applied to Natural Language Processing (NLP). Some of which are highlighted in this repository.
 
 ## SKILLS
 **Programming:** Python (advanced), C++, SQL, Linux/Bash, Matlab  
@@ -56,7 +56,7 @@ Boosting, etc.
 - Thereafter built the transformer based QANet to further improve the F1 score to 70.
 - Lastly used a pretrained BERT network to further improve the F1 score.
 
-### Banana Collection Agent (Fall 2018)
+<!-- ### Banana Collection Agent (Fall 2018)
 - Trained a robot to pick the maximum number of good bananas while avoiding bad bananas.
 - Received a reward of +1 for picking a good banana and -1 for picking a bad banana.
 - State augmentation by including previous observations to transform the problem from POMDP to MDP.
@@ -89,3 +89,4 @@ Boosting, etc.
 - Finite state machine based behavior planner and smooth trajectory generation using spline functions.
 - State transition was determined using a cost function that included distance to other vehicles, ride comfort (i.e. minimize jerk), and speed. Controlled steering angle and vehicle acceleration to minimize this cost function.
 - The planner was implemented in C++ and was one of the top 25 winners in the challenge.
+ -->
