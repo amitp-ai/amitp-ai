@@ -3,13 +3,6 @@
 ## SUMMARY
 I am a Machine Learning Engineer/Researcher with deep knowledge of various machine learning and deep learning algorithms as applied to Natural Language Processing (NLP). Some of which are highlighted in this repository.
 
-## SKILLS
-**Programming:** Python (advanced), C++, SQL, Linux/Bash, Matlab  
-
-**Frameworks/Libraries:** Pytorch (advanced), Tensorflow, SpaCy, NLTK, Pandas, PySpark, Dask, Git, Docker, RegEx, Scikit-Learn  
-
-**Cloud Computing Platforms:** Google Cloud Platform (GCP), Amazon Web Services (AWS)  
-
 **Relevant Course Work:** Natural Language Processing, Computer Vision, Advanced Robotics, Reinforcement Learning, Intro to AI, Intro to Machine Learning, Algorithms & Data Structures, Software Fundamentals for Engineering Systems  
 
 ## EXPERTISE
@@ -26,7 +19,7 @@ I am a Machine Learning Engineer/Researcher with deep knowledge of various machi
 - Object detection using YOLO and SSD as well as semantic segmentation using Fully Convolutional Networks (FCN).
 - Synthesize new images using Generative Adversarial Networks (GAN) and Variational Auto Encoders (VAE).
 
-### Deep Reinforcement Learning
+<!-- ### Deep Reinforcement Learning
 - Dynamic Programming, Bayesian Optimization, Thompson Sampling, Monte-Carlo (MC) learning.
 - Temporal Difference (TD) learning: SARSA, Q-Learning, Expected SARSA, Deep Q Network (DQN), Double DQN.
 - Policy Gradient Methods: Advantage Actor Critic (A2C), Deep Deterministic Policy Gradient (DDPG).
@@ -37,7 +30,7 @@ Boosting, etc.
 - Strong understanding of unsupervised learning algorithms such as PCA, K-means, expectation-maximization.
 - Collaborative filtering and content based recommendation systems as well as various anomaly detection algorithms.
 
-<!-- ### Autonomous Vehicle Path Planning and Control
+### Autonomous Vehicle Path Planning and Control
 - Behavior planning (in structured environments) using cost function based finite state machines as well as in (unstructured environments) using A* search algorithm.
 - Machine learning based environmental prediction and trajectory generation using jerk minimization techniques.
 - Control: proportional-integrate-derivative (PID), Linear Quadratic Regulator (LQR), and Model Predictive Control (MPC)
