@@ -3,32 +3,33 @@
 ## SUMMARY
 I am a Machine Learning Engineer/Researcher with deep knowledge of various machine learning and deep learning algorithms as applied to Natural Language Processing (NLP). Some of which are highlighted in this repository.
 
-**Relevant Course Work:** Natural Language Processing, Computer Vision, Advanced Robotics, Reinforcement Learning, Intro to AI, Intro to Machine Learning, Algorithms & Data Structures, Software Fundamentals for Engineering Systems  
+**Relevant Course Work:** Deep Learning for NLP, Deep Learning for Computer Vision, Advanced Robotics, Deep Reinforcement Learning, Intro to AI, Intro to Machine Learning, Algorithms & Data Structures, Software Fundamentals for Engineering Systems  
 
 ## EXPERTISE
 ### Natural Language Processing
-- Text pre-processing methods such as Tokenization, Stemming, Lemmatization, etc.
-- Traditional feature extraction methods such as bag-of-words, TFIDF, etc.
-- Deep learning based models for NER, POS, Sentiment Analysis.
-- Advanced deep learning models for Text Summarization, Question-Answering Systems, and Machine Translation.
+- Text pre-processing methods such as Tokenization, Stemming, Lemmatization, etc
+- Traditional feature extraction methods such as bag-of-words, TFIDF, word embeddings like word2vec, Glove, etc
+- Deep learning based models for NER, POS, Sentiment Analysis, Dependency Parsing
+- Advanced deep learning models for Text Summarization  (https://github.com/amitp-ai/Text_Summarization_UCSD)
+- Machine Translation and Question-Answering System  (https://github.com/amitp-ai/CS224n_Stanford_NLP)
 
 ### Deep Learning
-- Transformer based networks such as BERT and GPT as well as traditional LSTM based networks.
-- Improve inference performance using graph optimization and weight quantization.
-- CNN architectures such as AlexNet, VGGNet, GoogLeNet for image classification.
-- Object detection using YOLO and SSD as well as semantic segmentation using Fully Convolutional Networks (FCN).
-- Synthesize new images using Generative Adversarial Networks (GAN) and Variational Auto Encoders (VAE).
+- Transformer based networks such as BERT and GPT as well as traditional LSTM based networks
+- Improve inference performance using graph optimization and weight quantization
+- CNN architectures such as AlexNet, VGGNet, GoogLeNet for image classification as well as object detection using YOLO and SSD
+- Semantic segmentation using Fully Convolutional Networks  (https://amitp-ai.medium.com/fcn-571881788e70)
+- Synthesize new images using Generative Adversarial Networks (GAN) and Variational Auto Encoders (VAE)
 
 <!-- ### Deep Reinforcement Learning
-- Dynamic Programming, Bayesian Optimization, Thompson Sampling, Monte-Carlo (MC) learning.
-- Temporal Difference (TD) learning: SARSA, Q-Learning, Expected SARSA, Deep Q Network (DQN), Double DQN.
-- Policy Gradient Methods: Advantage Actor Critic (A2C), Deep Deterministic Policy Gradient (DDPG).
+- Dynamic Programming, Bayesian Optimization, Thompson Sampling, Monte-Carlo (MC) learning
+- Temporal Difference (TD) learning: SARSA, Q-Learning, Expected SARSA, Deep Q Network (DQN), Double DQN
+- Policy Gradient Methods: Advantage Actor Critic (A2C), Deep Deterministic Policy Gradient  (https://medium.com/@amitp-ai/policy-gradients-1edbbbc8de6b)
 
 ### Traditional Machine Learning
-- Thorough knowledge of Linear & Logistic Regression, Support Vector Machines (SVMs), Naïve Bayes Classifier, Random Forests,
-Boosting, etc.
-- Strong understanding of unsupervised learning algorithms such as PCA, K-means, expectation-maximization.
-- Collaborative filtering and content based recommendation systems as well as various anomaly detection algorithms.
+- Thorough knowledge of Linear & Logistic Regression, Support Vector Machines (SVMs), Naïve Bayes Classifier, Random Forests,  Boosting, etc
+- Strong understanding of unsupervised learning algorithms such as PCA, K-means, expectation-maximization
+- Collaborative filtering and content based recommendation systems as well as various anomaly detection algorithms
+- Github Link:  https://github.com/amitp-ai/UCSDX_Mini_Projects
 
 ### Autonomous Vehicle Path Planning and Control
 - Behavior planning (in structured environments) using cost function based finite state machines as well as in (unstructured environments) using A* search algorithm.
