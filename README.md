@@ -85,5 +85,6 @@ I am a Machine Learning Engineer/Researcher with deep knowledge of various machi
 - The planner was implemented in C++ and was one of the top 25 winners in the challenge.
  -->
 
+
 ## Resume
-[Here's some more info. about me] (https://drive.google.com/file/d/1r_DC7YHBS17jXVplGqPP4JITccsw8sLC/view?usp=sharing)
+[Addn'l info. about me](https://drive.google.com/file/d/1r_DC7YHBS17jXVplGqPP4JITccsw8sLC/view?usp=sharing)
