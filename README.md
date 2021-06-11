@@ -41,7 +41,7 @@ I am a Machine Learning Engineer/Researcher with deep knowledge of various machi
 ### Text Summarization
 - Input text was first pre-processed followed by data wrangling and data exploration.
 - Thereafter experimented with various encoder-decoder type of models using LSTM, attention based LSTM, transformers, and memory efficient transformers. Memory efficient transformers performed the best with Rouge-1 and Rouge-2 scores of 38.3 and 13.3.
-- Productionized using a Docker container and served the model using a web interface through AWS.
+- Productionized using a Docker container deployed on an AWS EC2 instance and served using a Flask based API.
 
 ### Question-Answering System on the SQuAD2.0 Dataset
 - As part of Stanford’s CS224N’s final project, I experimented with a few different architectures for this task.
