@@ -38,6 +38,14 @@ I have deep knowledge of various machine learning and deep learning algorithms a
 -->
 
 ## RELEVANT PROJECTS
+### Banana Collection Agent (Fall 2018)
+- Trained a robot to pick the maximum number of good bananas while avoiding bad bananas.
+- Received a reward of +1 for picking a good banana and -1 for picking a bad banana.
+- State augmentation by including previous observations to transform the problem from POMDP to MDP.
+- Trained the agent (end-to-end) from raw pixels to q-values using CNN based double DQN learning algorithm.
+- For faster training, batch normalization technique was used.
+- Trained using PyTorch on Google Cloud, achieving a 100-episode average reward of 12.
+
 ### Text Summarization
 - Input text was first pre-processed followed by data wrangling and data exploration.
 - Thereafter experimented with various encoder-decoder type of models using LSTM, attention based LSTM, transformers, and memory efficient transformers. Memory efficient transformers performed the best with Rouge-1 and Rouge-2 scores of 38.3 and 13.3.
@@ -49,14 +57,6 @@ I have deep knowledge of various machine learning and deep learning algorithms a
 - Then added character level embeddings (in addition to word embeddings) to BiDAF and achieved F1 of 65.
 - Thereafter built the transformer based QANet to further improve the F1 score to 70.
 - Lastly used a pretrained BERT network to further improve the F1 score.
-
-### Banana Collection Agent (Fall 2018)
-- Trained a robot to pick the maximum number of good bananas while avoiding bad bananas.
-- Received a reward of +1 for picking a good banana and -1 for picking a bad banana.
-- State augmentation by including previous observations to transform the problem from POMDP to MDP.
-- Trained the agent (end-to-end) from raw pixels to q-values using CNN based double DQN learning algorithm.
-- For faster training, batch normalization technique was used.
-- Trained using PyTorch on Google Cloud, achieving a 100-episode average reward of 12.
 
 <!-- ### Image Segmentation (part of Udacity-Lyft Perception Challenge) (Fall 2017)
 - Developed a deep learning based image segmentation system to detect vehicles and road surfaces.
