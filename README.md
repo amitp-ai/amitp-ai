@@ -1,7 +1,8 @@
 ![GithubProfile](https://user-images.githubusercontent.com/23042512/117491618-47e87700-af25-11eb-9164-b06f11bac5f2.png)
 
 ## SUMMARY
-Staff design engineer with expertise in developing reinforcement learning algorithms to automate analog IC design process. Additionally, I have worked on side projects pertaining to other areas of deep learning such as NLP and computer vision. Some of which are highlighted in this repository.
+Staff design engineer with expertise in developing reinforcement learning algorithms to automate analog IC design process. 
+Additionally, I have worked on side projects pertaining to other areas of deep learning such as NLP and computer vision -- some of which are highlighted in this repository.
 
 **Relevant Course Work:** Deep Reinforcement Learning, Deep Learning for NLP, Deep Learning for Computer Vision, Advanced Robotics, Intro to AI, Intro to Machine Learning, Algorithms & Data Structures, Software Fundamentals for Engineering Systems  
 
