@@ -4,7 +4,7 @@
 Staff design engineer with expertise in developing reinforcement learning algorithms to automate analog IC design process. 
 Additionally, I have worked on side projects pertaining to other areas of deep learning such as NLP and computer vision -- some of which are highlighted in this repository.
 
-**Relevant Course Work:** Deep Reinforcement Learning, Deep Learning for NLP, Deep Learning for Computer Vision, Advanced Robotics, Intro to AI, Intro to Machine Learning, Algorithms & Data Structures, Software Fundamentals for Engineering Systems  
+**Relevant Course Work:** Advanced Analog Design, Power Electronics, Deep Reinforcement Learning, Deep Learning for NLP, Deep Learning for Computer Vision, Advanced Robotics, Intro to AI, Intro to Machine Learning, Algorithms & Data Structures, Software Fundamentals for Engineering Systems  
 
 ## EXPERTISE
 ### Deep Learning
