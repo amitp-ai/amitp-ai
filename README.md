@@ -1,7 +1,7 @@
 ![GithubProfile](https://user-images.githubusercontent.com/23042512/117491618-47e87700-af25-11eb-9164-b06f11bac5f2.png)
 
 ## SUMMARY
-I have deep knowledge of various machine learning and deep learning algorithms as well as reinforcement learning as applied to analog circuit optimization. Some of which are highlighted in this repository.
+I have deep knowledge of various machine learning and deep learning algorithms as well as reinforcement learning as applied to analog circuit optimization. Some of my projects are highlighted in this repository.
 
 **Relevant Course Work:** Deep Reinforcement Learning, Deep Learning for NLP, Deep Learning for Computer Vision, Advanced Robotics, Intro to AI, Intro to Machine Learning, Algorithms & Data Structures, Software Fundamentals for Engineering Systems  
 
