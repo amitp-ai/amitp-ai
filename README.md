@@ -20,12 +20,12 @@ I have deep knowledge of various machine learning and deep learning algorithms a
 - Semantic segmentation using Fully Convolutional Networks  (https://amitp-ai.medium.com/fcn-571881788e70)
 - Synthesize new images using Generative Adversarial Networks (GAN) and Variational Auto Encoders (VAE)
 
-<!-- ### Deep Reinforcement Learning
+### Deep Reinforcement Learning
 - Dynamic Programming, Bayesian Optimization, Thompson Sampling, Monte-Carlo (MC) learning
 - Temporal Difference (TD) learning: SARSA, Q-Learning, Expected SARSA, Deep Q Network (DQN), Double DQN
 - Policy Gradient Methods: Advantage Actor Critic (A2C), Deep Deterministic Policy Gradient  (https://medium.com/@amitp-ai/policy-gradients-1edbbbc8de6b)
 
-### Traditional Machine Learning
+<!-- ### Traditional Machine Learning
 - Thorough knowledge of Linear & Logistic Regression, Support Vector Machines (SVMs), Naïve Bayes Classifier, Random Forests,  Boosting, etc
 - Strong understanding of unsupervised learning algorithms such as PCA, K-means, expectation-maximization
 - Collaborative filtering and content based recommendation systems as well as various anomaly detection algorithms
@@ -50,7 +50,7 @@ I have deep knowledge of various machine learning and deep learning algorithms a
 - Thereafter built the transformer based QANet to further improve the F1 score to 70.
 - Lastly used a pretrained BERT network to further improve the F1 score.
 
-<!-- ### Banana Collection Agent (Fall 2018)
+### Banana Collection Agent (Fall 2018)
 - Trained a robot to pick the maximum number of good bananas while avoiding bad bananas.
 - Received a reward of +1 for picking a good banana and -1 for picking a bad banana.
 - State augmentation by including previous observations to transform the problem from POMDP to MDP.
@@ -58,7 +58,7 @@ I have deep knowledge of various machine learning and deep learning algorithms a
 - For faster training, batch normalization technique was used.
 - Trained using PyTorch on Google Cloud, achieving a 100-episode average reward of 12.
 
-### Image Segmentation (part of Udacity-Lyft Perception Challenge) (Fall 2017)
+<!-- ### Image Segmentation (part of Udacity-Lyft Perception Challenge) (Fall 2017)
 - Developed a deep learning based image segmentation system to detect vehicles and road surfaces.
 - FCN was used as the segmentation network, and its encoder network was built using VGG16.
 - Replaced fully connected output layers of VGG16 with fully convolutional layers.
